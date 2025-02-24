@@ -1,0 +1,5 @@
+Los modelos de IA se basan en algoritmos y datos. 
+Se "entrenan" utilizando grandes cantidades de datos 
+para identificar patrones y relaciones. Una vez entrenados, 
+pueden utilizar estos patrones para hacer predicciones o 
+tomar decisiones sobre nuevos datos.
