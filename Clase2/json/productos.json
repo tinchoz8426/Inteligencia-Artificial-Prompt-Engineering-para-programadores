@@ -1,0 +1,144 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Laptop HP Pavilion",
+            "descripcion": "Laptop de 15.6 pulgadas, 8GB RAM, 256GB SSD",
+            "precio": 799.99,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 2,
+            "nombre": "iPhone 13",
+            "descripcion": "Smartphone de 128GB, color azul",
+            "precio": 899.00,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 3,
+            "nombre": "Samsung Galaxy Tab S7",
+            "descripcion": "Tablet de 11 pulgadas, 128GB, Wi-Fi",
+            "precio": 649.99,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 4,
+            "nombre": "Nike Air Max 270",
+            "descripcion": "Zapatillas deportivas para hombre",
+            "precio": 150.00,
+            "categoria": "Ropa"
+        },
+        {
+            "id": 5,
+            "nombre": "Adidas Essentials Hoodie",
+            "descripcion": "Sudadera con capucha para mujer",
+            "precio": 60.00,
+            "categoria": "Ropa"
+        },
+        {
+            "id": 6,
+            "nombre": "Kindle Paperwhite",
+            "descripcion": "E-reader con pantalla de 6 pulgadas, resistente al agua",
+            "precio": 129.99,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 7,
+            "nombre": "Sony WH-1000XM4",
+            "descripcion": "Auriculares inalámbricos con cancelación de ruido",
+            "precio": 349.99,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 8,
+            "nombre": "Canon EOS Rebel T7",
+            "descripcion": "Cámara réflex digital con lente 18-55mm",
+            "precio": 499.00,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 9,
+            "nombre": "Instant Pot Duo 7-in-1",
+            "descripcion": "Olla a presión eléctrica de 6 cuartos",
+            "precio": 99.95,
+            "categoria": "Hogar"
+        },
+        {
+            "id": 10,
+            "nombre": "Dyson V11 Torque Drive",
+            "descripcion": "Aspiradora inalámbrica con cabezal inteligente",
+            "precio": 599.99,
+            "categoria": "Hogar"
+        },
+        {
+            "id": 11,
+            "nombre": "Levi's 501 Original Fit Jeans",
+            "descripcion": "Jeans para hombre, corte clásico",
+            "precio": 69.50,
+            "categoria": "Ropa"
+        },
+        {
+            "id": 12,
+            "nombre": "Apple Watch Series 7",
+            "descripcion": "Smartwatch de 45mm, GPS, resistente al agua",
+            "precio": 399.00,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 13,
+            "nombre": "Bose SoundLink Revolve",
+            "descripcion": "Altavoz Bluetooth portátil",
+            "precio": 199.00,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 14,
+            "nombre": "KitchenAid Artisan Stand Mixer",
+            "descripcion": "Batidora de 5 cuartos, color rojo",
+            "precio": 379.99,
+            "categoria": "Hogar"
+        },
+        {
+            "id": 15,
+            "nombre": "YETI Rambler 20 oz Tumbler",
+            "descripcion": "Vaso aislante de acero inoxidable",
+            "precio": 29.99,
+            "categoria": "Hogar"
+        },
+        {
+            "id": 16,
+            "nombre": "Patagonia Better Sweater Jacket",
+            "descripcion": "Chaqueta de punto para hombre",
+            "precio": 139.00,
+            "categoria": "Ropa"
+        },
+        {
+            "id": 17,
+            "nombre": "Logitech MX Master 3",
+            "descripcion": "Ratón inalámbrico avanzado",
+            "precio": 99.99,
+            "categoria": "Electrónica"
+        },
+        {
+            "id": 18,
+            "nombre": "Nespresso VertuoPlus",
+            "descripcion": "Máquina de café con cápsulas",
+            "precio": 179.00,
+            "categoria": "Hogar"
+        },
+        {
+            "id": 19,
+            "nombre": "The North Face Borealis Backpack",
+            "descripcion": "Mochila para uso diario",
+            "precio": 89.00,
+            "categoria": "Accesorios"
+        },
+        {
+            "id": 20,
+            "nombre": "GoPro HERO9 Black",
+            "descripcion": "Cámara de acción con estabilización",
+            "precio": 449.99,
+            "categoria": "Electrónica"
+        }
+    ]
+}

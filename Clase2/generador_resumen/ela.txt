@@ -1,0 +1,96 @@
+Esclerosis Lateral Amiotrófica (ELA): Una Visión Integral
+Introducción
+La Esclerosis Lateral Amiotrófica (ELA), también conocida como enfermedad de Lou Gehrig, es un trastorno neurodegenerativo progresivo que afecta principalmente a las neuronas motoras, responsables del control voluntario de los músculos. Con una incidencia de aproximadamente 2 casos por cada 100.000 personas a nivel global, la ELA suele manifestarse entre los 40 y 70 años, aunque existen casos atípicos en edades más tempranas o avanzadas. A pesar de su rareza, su impacto devastador en pacientes y familias ha impulsado avances científicos y campañas de concientización, como el Desafío del Cubo de Hielo (Ice Bucket Challenge), que recaudó millones para investigación.
+
+Causas y Fisiopatología
+La ELA se clasifica en dos tipos:
+
+ELA esporádica (90-95% de los casos): Sin causa genética clara, vinculada a factores ambientales, estrés oxidativo o disfunción mitocondrial.
+
+ELA familiar (5-10%): Asociada a mutaciones genéticas heredadas, como en los genes SOD1 (20% de los casos familiares), C9orf72 y TARDBP.
+
+Estas mutaciones provocan la acumulación de proteínas tóxicas en las neuronas motoras, generando degeneración de las neuronas superiores (ubicadas en el cerebro y la médula espinal) e inferiores (en el tronco encefálico y la médula). Esta pérdida interrumpe las señales nerviosas hacia los músculos, causando atrofia y parálisis.
+
+Síntomas y Progresión
+Los primeros síntomas varían según la zona afectada:
+
+Forma espinal: Debilidad en extremidades, calambres, fasciculaciones (temblores musculares) y dificultad para caminar.
+
+Forma bulbar: Dificultad para hablar (disartria), tragar (disfagia) y respirar.
+
+A medida que avanza, la ELA provoca:
+
+Atrofia muscular y rigidez (espasticidad).
+
+Pérdida de movilidad, requiriendo silla de ruedas o asistencia respiratoria.
+
+Insuficiencia respiratoria, principal causa de muerte, generalmente en 3 a 5 años tras el diagnóstico.
+
+Aunque la mayoría conserva sus capacidades cognitivas, alrededor del 15% desarrolla demencia frontotemporal. Casos excepcionales, como el del físico Stephen Hawking (que vivió 55 años con ELA), muestran la heterogeneidad de la enfermedad.
+
+Diagnóstico
+No existe una prueba única para la ELA. El diagnóstico se basa en:
+
+Evaluación clínica: Historia médica y examen neurológico.
+
+Electromiografía (EMG): Detecta anomalías en la actividad eléctrica muscular.
+
+Estudios de conducción nerviosa: Descartan neuropatías periféricas.
+
+Resonancia magnética (MRI): Excluye lesiones cerebrales o medulares.
+
+Criterios de El Escorial: Clasifican la certeza diagnóstica según la afectación de regiones corporales.
+
+El proceso puede ser prolongado debido a la similitud con otras enfermedades, como esclerosis múltiple o miastenia gravis.
+
+Tratamiento y Manejo
+Aunque no hay cura, las intervenciones buscan ralentizar la progresión y mejorar la calidad de vida:
+
+Fármacos:
+
+Riluzol: Reduce la toxicidad del glutamato, prolongando la supervivencia unos 2-3 meses.
+
+Edaravona: Antioxidante que retrasa el deterioro funcional en un 33%.
+
+Soporte multidisciplinar:
+
+Nutrición: Sondas de gastrostomía (PEG) para evitar desnutrición.
+
+Movilidad: Ayudas técnicas, fisioterapia y sillas adaptadas.
+
+Comunicación: Dispositivos con seguimiento ocular o sintetizadores de voz.
+
+Ventilación asistida:
+
+No invasiva (VNI): Máscaras que facilitan la respiración.
+
+Invasiva (traqueotomía): Opción compleja con implicaciones éticas.
+
+Cuidados paliativos: Manejo del dolor, apoyo psicológico y planificación de voluntades anticipadas.
+
+Avances en Investigación
+Los esfuerzos científicos se centran en:
+
+Terapias génicas: Medicamentos como el Tofersen, dirigido a mutaciones del gen SOD1, han mostrado eficacia en ensayos clínicos.
+
+Células madre: Estudios exploran su capacidad para regenerar neuronas o proteger las existentes.
+
+Biomarcadores: Identificación de proteínas en líquido cefalorraquídeo para diagnóstico temprano.
+
+Nuevos genes: Descubrimientos como el gen NEK1, vinculado a la ELA esporádica, gracias a fondos del Ice Bucket Challenge.
+
+A pesar de los avances, el desafío persiste en trasladar los hallazgos a tratamientos accesibles.
+
+Impacto Social y Emocional
+La ELA afecta no solo al paciente, sino a todo su entorno:
+
+Carga emocional: Ansiedad, depresión y duelos anticipados.
+
+Desgaste económico: Costos de equipos médicos, cuidadores y adaptaciones en el hogar.
+
+Sobrecarga del cuidador: Agotamiento físico y mental por la atención continua.
+
+Organizaciones como la Asociación Española de ELA (adELA) o la Fundación Luzón ofrecen recursos, grupos de apoyo y abogacía para derechos de los pacientes.
+
+Reflexión Final
+La ELA sigue siendo una de las enfermedades más crueles e impredecibles, pero cada avance científico acerca la posibilidad de un futuro con terapias efectivas. Mientras tanto, la prioridad es garantizar una atención integral que preserve la dignidad y autonomía de quienes la padecen. La combinación de investigación innovadora, políticas públicas solidarias y conciencia social es clave para transformar la esperanza en realidad.
